@@ -34,9 +34,25 @@ Diagramas Nassi-Shneiderman
 
 ![Diagrama Nassi-Schneiderman si/entonces/sino](IMG/Decision2.png)
 
+
 * Marca una decisión múltiple:
 
 ![Diagrama Nassi-Schneiderman Desición Múltiple](IMG/Decision3.png)
+
+
+* Marca una repetición de 0 a N veces (MIENTRAS):
+
+![Diagrama Nassi-Schneiderman MIentras](IMG/Mientras.png)
+
+
+* Marca una repetición de 1 a N veces (REPETIR HASTA):
+
+![Diagrama Nassi-Schneiderman Repetir Hasta](IMG/RepetirHasta.png)
+
+
+* Marca una repetición de 1 a N veces (DESDE - HASTA):
+
+![Diagrama Nassi-Schneiderman Repetir Desde Hasta](IMG/RepetirDH.png)
 
 
 # Se puede usar:
