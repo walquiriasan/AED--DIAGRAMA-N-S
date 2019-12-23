@@ -1,4 +1,4 @@
-# EL-ALGORITMO-SEGUN-EL-DIAGRAMA-NASSI-SCHNEIDERMAN
+# EL-ALGORITMO-SEGÚN-EL-DIAGRAMA-NASSI-SCHNEIDERMAN
 Diagramas Nassi-Shneiderman
 
 * Marca el inicio del Algoritmo:
