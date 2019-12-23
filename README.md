@@ -57,5 +57,5 @@ Diagramas Nassi-Shneiderman
 
 # Se puede usar:
 
-* Programa Visio->Formas para diagramas de flujo para Seis Sigma.
+* Programa PSeInt.
 
