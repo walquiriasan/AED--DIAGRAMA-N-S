@@ -1,9 +1,13 @@
 # EL-ALGORITMO-SEGUN-EL-DIAGRAMA-NASSI-SCHNEIDERMAN
 Diagramas Nassi-Shneiderman
 
-* Marca el inicio y el fin del Algoritmo:
+* Marca el inicio del Algoritmo:
 
-![bloque rectangular](IMG/Inicio_Fin.png)
+![bloque rectangular](IMG/Inicio.png)
+
+* Marca el fin del Algoritmo
+
+![bloque rectangular](IMG/Fin.png)
 
 
 * Marca la entrada de datos (LECTURA):
