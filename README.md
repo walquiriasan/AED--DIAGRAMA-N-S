@@ -12,17 +12,17 @@ Diagramas Nassi-Shneiderman
 
 * Marca la entrada de datos (LECTURA):
 
-![bloque rectangular](IMG/Datos_de_entrada.png)
+![bloque rectangular](IMG/Leer.png)
 
 
-* Marca un proceso (Asignación, Operación, Cambio de valor de celda en memoria, etc ):
+* Marca un proceso secuencial (Asignación, Operación, Cambio de valor de celda en memoria, etc ):
 
-![bloque rectangular](IMG/Proceso.png)
+![bloques rectangulares](IMG/Secuencial.png)
 
 
 * Marca una salida de datos (ESCRITURA):
 
-![bloque rectangular](IMG/Impresion.png)
+![bloque rectangular](IMG/Escribir.png)
 
 
 * Marca una decición SI/ENTONCES (también utilizado en estructuras repetitivas MIENTRAS y REPETIR):
