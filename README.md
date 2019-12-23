@@ -1,5 +1,5 @@
 # EL-ALGORITMO-SEGÚN-EL-DIAGRAMA-NASSI-SCHNEIDERMAN
-Diagramas Nassi-Shneiderman
+Diagrama Nassi-Shneiderman
 
 * Marca el inicio del Algoritmo:
 
