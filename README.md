@@ -35,9 +35,14 @@ Diagrama Nassi-Shneiderman
 ![Diagrama Nassi-Schneiderman si/entonces/sino](IMG/Decision2.png)
 
 
-* Marca una decisión múltiple:
+* Marca una decisión múltiple sin default cases:
 
 ![Diagrama Nassi-Schneiderman Desición Múltiple](IMG/Decision3.png)
+
+
+* Marca una decisión múltiple con default cases:
+
+![Diagrama Nassi-Schneiderman Desición Múltiple](IMG/Decision4.png)
 
 
 * Marca una repetición de 0 a N veces (MIENTRAS):
