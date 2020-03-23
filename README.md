@@ -25,7 +25,7 @@ Diagrama Nassi-Shneiderman
 ![bloque rectangular](IMG/Escribir.png)
 
 
-* Marca una decición SI/ENTONCES (también utilizado en estructuras repetitivas MIENTRAS y REPETIR):
+* Marca una decición SI/ENTONCES:
 
 ![Diagrama Nassi-Schneiderman si/entonces](IMG/Decision1.png)
 
