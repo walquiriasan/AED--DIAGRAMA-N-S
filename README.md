@@ -10,14 +10,14 @@ Diagrama Nassi-Shneiderman
 ![bloque rectangular](IMG/Fin.png)
 
 
-* Marca la entrada de datos (LECTURA):
-
-![bloque rectangular](IMG/Leer.png)
-
-
 * Marca una salida de datos (ESCRITURA):
 
 ![bloque rectangular](IMG/Escribir.png)
+
+
+* Marca la entrada de datos (LECTURA):
+
+![bloque rectangular](IMG/Leer.png)
 
 
 * Marca un proceso secuencial (Asignación, Operación, Cambio de valor de celda en memoria, etc ):
