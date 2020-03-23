@@ -25,12 +25,12 @@ Diagrama Nassi-Shneiderman
 ![bloques rectangulares](IMG/Secuencial.png)
 
 
-* Marca una decición SI/ENTONCES:
+* Marca una decisión SI/ENTONCES:
 
 ![Diagrama Nassi-Schneiderman si/entonces](IMG/Decision1.png)
 
 
-* Marca una decición SI/ENTONCES/SINO:
+* Marca una decisión SI/ENTONCES/SINO:
 
 ![Diagrama Nassi-Schneiderman si/entonces/sino](IMG/Decision2.png)
 
