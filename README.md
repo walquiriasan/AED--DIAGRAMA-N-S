@@ -15,14 +15,14 @@ Diagrama Nassi-Shneiderman
 ![bloque rectangular](IMG/Leer.png)
 
 
-* Marca un proceso secuencial (Asignación, Operación, Cambio de valor de celda en memoria, etc ):
-
-![bloques rectangulares](IMG/Secuencial.png)
-
-
 * Marca una salida de datos (ESCRITURA):
 
 ![bloque rectangular](IMG/Escribir.png)
+
+
+* Marca un proceso secuencial (Asignación, Operación, Cambio de valor de celda en memoria, etc ):
+
+![bloques rectangulares](IMG/Secuencial.png)
 
 
 * Marca una decición SI/ENTONCES:
